@@ -1,0 +1,16 @@
+# Imagicosmos
+
+> Imagicosmos ist der gemeinsame Name für vier Programme, die Fotos gestalten und präsentieren. Private Software-Projekte aus Deutschland, Sprache: Deutsch.
+
+Die Programme:
+
+- **Imagichron** – Fotos erzählen: persönliche Bilder-Zeitreisen für Feste mit Geschichte. Programm für Windows. https://imagichron.de/
+- **Imagiclique** – Fotos teilen: Status-Bilder für WhatsApp und Instagram aus eigenen Fotos, als App auf dem Android-Handy (Testphase). https://imagiclique.de/
+- **Imagicoll** – Fotos sammeln und bewahren: Die Android-App „Fotos sichern“ bringt Handy-Fotos über das WLAN zu Hause auf den eigenen PC (Katalog für Windows), ohne Cloud und ohne Konto. Fotoalben für die Familie und Fotowand für Feiern sind in Arbeit. https://imagicoll.de/
+- **Imagicruise** – Fotos von Reisen: Reiseberichte Tag für Tag mit Ereignissen, Fotos und Route auf der Karte; am Handy festhalten, am PC ausarbeiten, ohne Konto (Beta). https://imagicruise.de/
+
+Grundsätze: einfach zu bedienen, keine Werbung, die Fotos bleiben bei ihren Besitzern.
+
+## Seiten
+
+- [Startseite](https://imagicosmos.de/): die vier Programme und die Grundsätze
